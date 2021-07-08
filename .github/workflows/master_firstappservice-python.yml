@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: FirstAppService-Python
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D4C76DACDF047188250E4ABEAAED72C }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0028BE5ACFA04016AEC552FCD8B4DD68 }}
 
